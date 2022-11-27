@@ -1,0 +1,7 @@
+{
+  "name": "mypilot1",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
