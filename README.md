@@ -36,7 +36,7 @@ chrome://inspect/#devices
 Abrir "Config" -> "Opções de desenvolvedor" -> "Depuração por Wi-Fi" no android  
 parear usando codigo  
 solicitar pareamento com codigo  
-`cd $ANDROID_SDK/platform-tools/`
-`adb pair 198.168.1.187:42809`
-`adb connect 192.168.1.187:39049`
-`ionic capacitor run android --livereload --external`
+`cd $ANDROID_SDK/platform-tools/`  
+`adb pair 198.168.1.187:42809`  
+`adb connect 192.168.1.187:39049`  
+`ionic capacitor run android --livereload --external`  
