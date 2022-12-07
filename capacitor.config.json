@@ -1,6 +1,6 @@
 {
-	"appId": "io.ionic.starter",
-	"appName": "mypilot1",
+	"appId": "br.com.labs.cheetahplayer",
+	"appName": "cheetahplayer",
 	"webDir": "www",
 	"bundledWebRuntime": false
 }
